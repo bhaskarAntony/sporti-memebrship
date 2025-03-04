@@ -42,7 +42,7 @@ const Login: React.FC = () => {
             className="mx-auto h-16"
           />
           <h2 className="mt-6 text-3xl font-extrabold text-gray-900 dark:text-white">
-            SPORTi Admin Panel
+            SPORTI Admin Panel
           </h2>
           <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
             Sign in to your account
