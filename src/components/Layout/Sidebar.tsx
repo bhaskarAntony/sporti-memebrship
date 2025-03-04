@@ -59,7 +59,7 @@ const Sidebar: React.FC = () => {
             <img 
               src="https://www.sporti.ksp.gov.in/static/media/main_logo.512f9c8f27562f3e330c.jpg" 
               alt="SPORTi Logo" 
-              className="h-12"
+              className="h-20"
             />
           </div>
           <ul className="space-y-2 font-medium">
