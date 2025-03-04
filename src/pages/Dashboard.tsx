@@ -10,7 +10,7 @@ import {
 import { 
   BarChart, 
   Bar, 
-  XAxis, 
+  XAxis,  
   YAxis, 
   CartesianGrid, 
   Tooltip, 
